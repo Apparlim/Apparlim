@@ -1,16 +1,17 @@
-### Hi there 👋
+# <h1>Appar Thebe (He/Him)</h1>
 
-<!--
-**Apparlim/Apparlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🐣 Born and raised in Kathmandu, NEPAL   
+• 📚 Bachelor Of Science in Cybersecurity at University of North Texas     
+• ✨In love being extra 
 
-Here are some ideas to get you started:
+# <h1>🦾Fun Facts</h1>
+• I can speak more than 5 languages.   
+• I can sleep anywhere anytime.   
+• I am a good photographer.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Connect with me:
+- LinkedIn: 
+- Email:        
+
+Let's code, collaborate, and create something amazing together! 🚀
