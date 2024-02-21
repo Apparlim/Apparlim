@@ -11,10 +11,6 @@
 • I can speak more than 5 languages.   
 • I can sleep anywhere.  
 • I am a deep dive explorer.   
-
-
-Connect with me:
-- LinkedIn: www.linkedin.com/in/apparthebe
-- Email: apparthebe03@gmail.com     
+    
 
 Let's code, collaborate, and create something amazing together! 🚀
