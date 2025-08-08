@@ -1,5 +1,4 @@
 # <h1> Appar Thebe (He/Him)🔭</h1>
-![Osamu-Dazai-smiling-gif](https://github.com/Apparlim/Apparlim/assets/142485188/55c80222-aded-4292-9e9d-b8867d7b3963)
 
 
 • 💻 Super passionate about technologies.     
