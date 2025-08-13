@@ -2,21 +2,23 @@
 
 <img src="https://raw.githubusercontent.com/Apparlim/Apparlim/refs/heads/main/45865239362_e93866a73a_z.jpg" width="25%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello;I'm+Appar+-+a+lover+of+code,+ideas,+and+big+dreams;B.S.+in+Computer+Science+@+UNT+(Cybersecurity);Passionate+about+Software+and+Problem+Solving" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello%2C+I'm+Appar+-+a+lover+of+code;Ideas%2C+and+big+dreams;B.S.+in+Computer+Science+@+UNT+(Cybersecurity);Passionate+about+Software+and+Problem+Solving" width="70%" />
 
 <br><br>
 
 <pre>
-    🎓 B.S. in Computer Science @ UNT (Cybersecurity)
-    💻 Java • Python • C • DevOps • Automation
-    🛠️ Building secure & efficient systems
-    ❤️ Software, architecture, and creative problem-solving
-    🎶 90s music • 🎌 Anime • ✈️ Travel • 🐶 Dogs
+🎓 B.S. in Computer Science @ UNT (Cybersecurity)
+💻 Java • Python • C • DevOps • Automation
+🛠️ Building secure & efficient systems
+❤️ Software, architecture, and creative problem-solving
+🎶 90s music • 🎌 Anime • ✈️ Travel • 🐶 Dogs
 </pre>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.tenor.com/8h8bO7S1D74AAAAC/kakashi-anime.gif" height="200" />
+
+
 
 <br><br>
 
