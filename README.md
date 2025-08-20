@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Matrix-style effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🚀%20Welcome%20to%20Appar's%20Code%20Lab&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=🚀%20Welcome%20to%20Appar's%20Code%&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+there!+I'm+Appar;CS+Student+and+Future+Security+Expert;Coding+my+way+through+university+life!" alt="Typing Animation"/>
