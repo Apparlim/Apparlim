@@ -68,7 +68,7 @@ Weakness:   Sunlight... and segmentation faults
 ### 🌙 CURRENT MOON PHASES
 
 <div align="center">
-<img src="https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif" width="400" alt="Current Moon Phase"/>
+<img src="https://github.com/Apparlim/Apparlim/blob/main/kokoshibo4.gif" width="400" alt="Current Moon Phase"/>
 </div>
 
 ```yaml
@@ -90,7 +90,7 @@ next_form: "Open Source Territory Expansion"
 
 ### 🗡️ DEMON BLOOD WEAPONS
 
-![Demon Powers](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)
+![Demon Powers](https://github.com/Apparlim/Apparlim/blob/main/kokoshibo5.gif)
 
 </div>
 
@@ -105,7 +105,7 @@ next_form: "Open Source Territory Expansion"
 ---
 
 <div align="left">
-<img src="https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif" width="250" alt="Demon Chronicles"/>
+<img src="https://github.com/Apparlim/Apparlim/blob/main/kokoshibo6.gif" width="250" alt="Demon Chronicles"/>
 </div>
 
 ### 🕸️ DEMON CHRONICLES 
@@ -140,7 +140,7 @@ next_form: "Open Source Territory Expansion"
 
 <div align="center">
 
-![Final Demon Form](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)
+![Final Demon Form](https://github.com/Apparlim/Apparlim/blob/main/kokoshibo7.gif)
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
