@@ -22,7 +22,6 @@
 
 ### 👹 DEMON BLOOD ART: MOON BREATHING
 
-![Demon Animation](https://github.com/Apparlim/Apparlim/blob/main/kokoshibo2.gif)
 </div>
 
 ```
