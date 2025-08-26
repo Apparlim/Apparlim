@@ -37,7 +37,7 @@ Weakness:   Sunlight... and segmentation faults
 ### ⚔️ MOON BREATHING TECHNIQUES
 
 <div align="right">
-<img src="https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif" width="300" alt="Moon Breathing Forms"/>
+<img src="https://github.com/Apparlim/Apparlim/blob/main/kokoshibo3.gif" width="300" alt="Moon Breathing Forms"/>
 </div>
 
 **🌙 First Form: Programming Arsenal**
