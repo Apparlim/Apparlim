@@ -1,6 +1,12 @@
 # 🌙 APPAR LIM
 ### `Upper Moon • Cybersecurity Demon • Code Slayer`
 
+<div align="center">
+
+![Demon Slayer Animation](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)
+
+</div>
+
 ```ascii
          ╔════════════════════════════════════════════════╗
          ║                                                ║
@@ -12,7 +18,14 @@
 
 ---
 
+<div align="center">
+
 ### 👹 DEMON BLOOD ART: MOON BREATHING
+
+[![Demon Animation](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)](https://github.com/Apparlim/Apparlim/blob/main/kokoshibo2.gif)
+
+</div>
+
 ```
 Rank:       Upper Moon Student
 Territory:  University of North Texas (Denton Domain)
@@ -24,6 +37,10 @@ Weakness:   Sunlight... and segmentation faults
 ---
 
 ### ⚔️ MOON BREATHING TECHNIQUES
+
+<div align="right">
+<img src="https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif" width="300" alt="Moon Breathing Forms"/>
+</div>
 
 **🌙 First Form: Programming Arsenal**
 ```bash
@@ -52,6 +69,10 @@ Weakness:   Sunlight... and segmentation faults
 
 ### 🌙 CURRENT MOON PHASES
 
+<div align="center">
+<img src="https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif" width="400" alt="Current Moon Phase"/>
+</div>
+
 ```yaml
 primary_mission: "Ascend to Upper Rank CS Master @ UNT"
 blood_demon_art: "Perfect Cybersecurity Moon Breathing"
@@ -67,7 +88,13 @@ next_form: "Open Source Territory Expansion"
 
 ---
 
+<div align="center">
+
 ### 🗡️ DEMON BLOOD WEAPONS
+
+![Demon Powers](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)
+
+</div>
 
 ![Java](https://img.shields.io/badge/🗾_Java-000000?style=for-the-badge&logo=java&logoColor=crimson)
 ![Python](https://img.shields.io/badge/🐍_Python-000000?style=for-the-badge&logo=python&logoColor=crimson)
@@ -77,6 +104,11 @@ next_form: "Open Source Territory Expansion"
 ![Git](https://img.shields.io/badge/⚡_Git-000000?style=for-the-badge&logo=git&logoColor=crimson)
 ![PostgreSQL](https://img.shields.io/badge/🗃️_PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=crimson)
 
+---
+
+<div align="left">
+<img src="https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif" width="250" alt="Demon Chronicles"/>
+</div>
 
 ### 🕸️ DEMON CHRONICLES 
 
@@ -108,6 +140,10 @@ next_form: "Open Source Territory Expansion"
 
 ---
 
+<div align="center">
+
+![Final Demon Form](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)
+
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
@@ -119,8 +155,6 @@ next_form: "Open Source Territory Expansion"
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
-
-<div align="center">
 
 *🌙 Upper Moon Territory Established. Enter at your own risk. 👹*
 
