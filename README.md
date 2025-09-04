@@ -1,43 +1,21 @@
-# 🌙 APPAR LIM
-### `Upper Moon • Cybersecurity Demon • Code Slayer`
+# Hi, I'm Appar 
 
-<div align="center">
+**CS Student @ University of North Texas** | **Cybersecurity Enthusiast**
 
-![Demon Slayer Animation](https://github.com/Apparlim/Apparlim/blob/main/e2f745698b639d14dbd4c1567e5f03d6.gif)
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-*"Six eyes see only vulnerabilities"*
+### 🎯 Focus Areas
+- Ethical Hacking & Penetration Testing
+- Secure Software Development
+- Vulnerability Assessment
 
-</div>
-
----
-
-### 👹 DEMON BLOOD ART
-```
-🎓 CS Student @ University of North Texas
-⚔️ Cybersecurity & Ethical Hacking
-🌙 Moon Breathing: Code & Security Forms
-```
-
-### 🗡️ WEAPONS OF CHOICE
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=crimson)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=crimson)
-![Spring](https://img.shields.io/badge/Spring-000000?style=flat&logo=spring&logoColor=crimson)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=crimson)
-
-### 🌙 CURRENT MOON PHASE
-```yaml
-mission: "Master Cybersecurity Arts"
-specialty: "Vulnerability Hunting & Secure Code"
-motto: "Transform weaknesses into deadly forms"
-```
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apparthebe/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/limlee23)
 
 ---
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=crimson)](https://www.linkedin.com/in/apparthebe/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=crimson)](https://x.com/limlee23)
-
-*🌙 Upper Moon Territory. Enter at your own risk. 👹*
-
-</div>
+*Currently exploring the intersection of security and software development*
